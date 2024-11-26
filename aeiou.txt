@@ -1,0 +1,83 @@
+1. Principais técnicas de levantamento de requisitos e como elas se diferenciam:
+
+As principais técnicas de levantamento de requisitos incluem entrevistas, workshops, brainstorming, análise de documentos, observação, questionários e cenários.
+
+Entrevistas: São conversas com stakeholders para entender suas necessidades e expectativas. Podem ser formais (com perguntas estruturadas) ou informais (mais flexíveis e espontâneas).
+
+Cenários: São descrições de situações reais ou hipotéticas que mostram como o sistema deve se comportar no dia a dia do usuário.
+
+A diferença entre as entrevistas e cenários é que as entrevistas buscam entender as opiniões e necessidades diretamente das pessoas, enquanto os cenários ajudam a visualizar como o sistema funciona em contextos reais de uso.
+
+2. Importância da validação de requisitos no contexto do documento de arquitetura de software:
+
+Validar os requisitos é essencial para garantir que o sistema será construído conforme as expectativas dos usuários. No documento de arquitetura de software, essa validação ajuda a confirmar que os requisitos podem ser atendidos pela estrutura do sistema que está sendo projetada, evitando falhas de comunicação e garantindo que o produto final atenda às necessidades do cliente.
+
+3. Técnica de prototipação e como ela é utilizada para levantar e validar requisitos:
+
+A prototipação envolve criar versões preliminares do sistema para experimentar e ajustar os requisitos com os usuários.
+
+Para levantar requisitos: O protótipo ajuda a identificar as necessidades reais dos usuários, permitindo que eles interajam com um modelo inicial e sugiram melhorias.
+
+Para validar requisitos: Ao testar o protótipo, é possível verificar se o que foi solicitado atende às expectativas dos usuários, fazendo ajustes com base no feedback recebido.
+
+4. Técnica de etnografia e como ela contribui para o levantamento de requisitos em sistemas complexos:
+
+A etnografia envolve a observação direta dos usuários em seus ambientes, buscando entender seus comportamentos, necessidades e problemas de maneira natural. Para sistemas mais complexos, essa abordagem é valiosa porque revela necessidades que os usuários podem não conseguir expressar em entrevistas ou questionários.
+
+5. Três tipos de requisitos no QFD:
+
+No QFD (Quality Function Deployment), os requisitos são divididos em três tipos:
+
+Requisitos normais: São as expectativas mínimas dos clientes. Se não forem atendidos, o cliente ficará insatisfeito.
+Requisitos esperados: São características que o cliente considera como padrão. Sua ausência gera insatisfação, mas sua presença não gera grande satisfação.
+Requisitos fascinantes: São os “extra” que encantam o cliente, criando uma experiência positiva inesperada.
+
+6. Vantagens de realizar entrevistas formais e informais com stakeholders durante o levantamento de requisitos:
+
+Entrevistas formais são importantes para garantir que todas as áreas e necessidades sejam cobertas de maneira estruturada.
+Entrevistas informais permitem uma abordagem mais flexível e podem revelar aspectos mais sutis, como sentimentos e opiniões espontâneas dos stakeholders.
+Essas duas abordagens, quando usadas juntas, garantem uma compreensão mais completa das expectativas dos usuários.
+
+7. Como os cenários contribuem para o processo de engenharia de requisitos:
+
+Cenários ajudam a visualizar como o sistema deve funcionar em situações do dia a dia. Isso torna mais fácil identificar os pontos críticos e as interações necessárias no sistema. Além disso, eles têm uma conexão estreita com UX (experiência do usuário) e UI (interface de usuário), pois ajudam a entender a jornada do usuário e a projetar interfaces mais intuitivas.
+
+8. Conceito de caso de uso e interações em um sistema:
+
+Um caso de uso descreve como um usuário (ou "ator") interage com o sistema para alcançar um objetivo específico. Ele ajuda a identificar os passos necessários para que a tarefa seja concluída e define as interações entre o usuário e o sistema.
+
+9. Como a técnica JAD facilita o trabalho colaborativo durante o levantamento de requisitos:
+
+JAD (Joint Application Development) é uma técnica onde stakeholders, desenvolvedores e usuários se reúnem para discutir e definir os requisitos do sistema. Esse método facilita a colaboração porque todos têm a chance de expressar suas necessidades e ideias, ajudando a alinhar o entendimento e tomar decisões em grupo.
+
+10. Diferença entre requisitos normais, esperados e fascinantes no QFD:
+
+Requisitos normais: São os itens básicos que o cliente espera. Se não estão presentes, há insatisfação.
+Requisitos esperados: São aquelas coisas que o cliente assume como garantidas. Sua ausência gera insatisfação, mas sua presença não traz grande surpresa.
+Requisitos fascinantes: São os recursos extras que encantam o cliente e superam suas expectativas.
+
+11. Combinação de etnografia e prototipação no desenvolvimento de um sistema:
+
+A combinação de etnografia e prototipação é poderosa. A etnografia fornece uma compreensão profunda do contexto do usuário, enquanto a prototipação permite testar soluções de forma rápida e interativa. Juntas, essas técnicas ajudam a criar um sistema que realmente atenda às necessidades dos usuários, ajustando-se ao longo do processo.
+
+12. Conceito de “tabela da voz do cliente” no QFD:
+
+A tabela da voz do cliente no QFD é uma ferramenta que traduz as necessidades dos clientes em requisitos técnicos específicos que devem ser atendidos no produto. Isso ajuda a garantir que o sistema será projetado para atender exatamente às expectativas dos usuários.
+
+13. Quando a técnica de caso de uso pode ser menos adequada, favorecendo etnografia:
+
+A técnica de caso de uso funciona bem quando as interações do sistema são bem definidas. No entanto, quando lidamos com sistemas complexos ou quando os usuários têm comportamentos inesperados, a etnografia pode ser mais eficaz para capturar necessidades que não podem ser previstas apenas com casos de uso.
+
+14. Quatro princípios fundamentais da técnica JAD e qual deles é incorretamente associado:
+
+Os quatro princípios do JAD são:
+
+Colaboração ativa entre usuários e desenvolvedores.
+Visão holística do sistema.
+Facilitação para guiar as discussões.
+Tomada de decisão compartilhada.
+O princípio incorretamente associado é o de que somente a liderança toma as decisões. Na verdade, as decisões no JAD são tomadas de forma colaborativa por todos os envolvidos.
+
+15. Impacto da ausência de requisitos esperados na satisfação do cliente:
+
+Se os requisitos esperados não forem atendidos, o cliente se sentirá insatisfeito, já que ele considera esses requisitos como "padrões". Isso pode afetar seriamente a satisfação do cliente e até a adoção do sistema, pois o cliente sente que o sistema não corresponde ao mínimo esperado.
